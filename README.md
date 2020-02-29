@@ -78,14 +78,14 @@ https://c.m.163.com/news/a/F6GCI5P30550A3RU.html?spss=newsapp
 In China, we have a lot of online shopping apps. During this period, they launched a door-to-door delivery service. We placed an order through the app, and then went to the gate of the community to get it, because the Chinese government does not allow us to leave the community, and no one else can enter the community.
 ## How do you work in China?
 As long as it's not an important industry, such as mask industry and transportation industry, we all work online, communicate through social software, or email
-##What is the purpose of 14 days of medical observation?
+## What is the purpose of 14 days of medical observation?
 It is necessary to take strict medical observation and other preventive public health measures for close contacts, which is a responsible attitude to public health and safety, and also a common practice of the international community.
 Referring to the other novel coronavirus cases, the coronavirus case information and the current prevention and control practice, the medical observation period of the close contacts was set to 14 days, and the close contacts were observed at home.
-##How long can the new coronavirus survive without human body?
+## How long can the new coronavirus survive without human body?
 Virus is different from bacteria. It is a kind of microorganism without metabolism and replication function. Therefore, all viruses are easy to deform or inactivate after leaving the host.
 According to the analysis of relevant data, the survival time of the new coronavirus in the dry and ventilated environment is less than 2 hours. However, the similarity between the new coronavirus and SARS is great. According to the survival time of the surface of SARS related in vitro articles, even if the community disinfection is in place, the virus may also survive in the handle, elevator, stairs and other places.
 (in the confirmed case of Inner Mongolia, Bai, 40 years old, from Dalate County, Ordos City, lives on the upper floor of the confirmed case, song. He has no history of going out of the city, has no contact with fever patients, has not been to the farmer's market, and has no contact with wild animals. It was diagnosed on February 1. It can be seen from this case that the mode of transmission of the virus may not be limited to oral foam transmission, and the risk of contact transmission increases.)
-##How to prevent novel coronavirus pneumonia
+## How to prevent novel coronavirus pneumonia
 A. Cherish life and keep away from game;
 B. If not necessary, do not go out, do not visit, home "self isolation"; do not go to many places, do not gather;
 C. Keep hands clean. Wash your hands with alcohol containing hand sanitizer at home. Hand washing can defeat most viruses and bacteria;
