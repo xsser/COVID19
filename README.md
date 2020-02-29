@@ -180,6 +180,7 @@ The mortality rate of 2019-ncov is a little more than 2%. Among the three new co
 7. How to prevent nosocomial infection?
 Zhong Nanshan: the problem of nosocomial infection is very important. Wuhan hospital is now very good, but it has become an important place for infection for some time before. At present, there are few medical people infected in other cities, because the protection is well done.
 Sewers in toilets are usually of great importance. It's usually important to keep it. Like other foreign experts, I don't think it's an infection of the digestive tract. It's a dry stool. It's infected by air. This is the most reasonable explanation.
+
 **reference**
 http://tech.163.com/20/0218/18/F5MGR2VF000999D8.html
 
@@ -201,6 +202,7 @@ A: This article was published on January 22. At that time, sales information of 
 Now most express delivery does not ship, we must ask when to ship before you buy. If you can't buy it, please refer to the second question and answer, and use some hydrophobic materials that can be seen everyday as an alternative.
 Finally, the article and the author have nothing to do with all the material suppliers. The pictures in the article are only for illustration. If there are businesses or friends with supply channels, you are welcome to contact me by private mail. If it is verified to be effective, I will publish it for your convenience.
 Thank you very much for taking the time to read. I hope it will help you. Finally, I wish the epidemic to end as soon as possible. All the people who are struggling in the front line, such as doctors, police and workers, will come back safely. Everyone from all over the world will be safe. Come on, Wuhan! Go China!
+
 **reference**
 https://zhuanlan.zhihu.com/p/103819650
 
