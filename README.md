@@ -12,6 +12,8 @@
 
 >身を共にし命を共にする。
 
+>I wish I were Superman and could save you guys :)  But now, Anyone is superman,Keep yourself safe. You're saving the planet
+
 You can leave a message and ask questions. I will try my best to answer them
 
 ## Understand COVID-19
