@@ -40,8 +40,9 @@ https://baike.baidu.com/item/2019%E6%96%B0%E5%9E%8B%E5%86%A0%E7%8A%B6%E7%97%85%E
 NO,Other drugs can only reduce RNA replication,Other drugs can only reduce RNA replication, but they can't cure you 100%
 ## How do I prevent
 1. Reserve N95 masks (the filtering effect of N95 masks is good). In the early stage of the epidemic, the number of people infected is large, and the concentration of virus is also large. N95 masks are relatively safe. You must wear masks every time you go out! You must wear masks! The probability of being infected without masks is very high!
-
+![](.README_images/dd7a6e37.png)
 2. Store disinfectant, go home and disinfect the whole body (especially the sole, because the sole will step on phlegm, urine, etc.), and disinfect a series of frequently contacted things such as mobile phones, door handles, switches, etc
+
 3. Reserve food! The food looting is not only in China, but also in Hong Kong, Singapore, Italy, South Korea and other countries and regions. The food reserve is enough for 1-2 months. Because the Chinese government forbids everyone to go out. (this reason is very complicated, but I think it is very effective and who also suggests it.)
 
 ## Core recommendations
@@ -49,6 +50,7 @@ NO,Other drugs can only reduce RNA replication,Other drugs can only reduce RNA r
 The safety of others is based on your safety. Please be responsible for yourself and the people around you! It's not about one person!
 2. The most dangerous place: elevator lobby!
 Avoid going to the elevator lobby if you want to! Wear goggles and mask, wash hands or disinfect after pressing the button
+![](.README_images/cb58e73e.png)
 3. Avoid going to restaurants
 4. Avoid going to the Office
 5. Avoid toilets
