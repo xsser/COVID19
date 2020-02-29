@@ -95,12 +95,12 @@ https://www.sohu.com/a/370439329_820625
 ## The difference of several kinds of masks
 | Mask type  | PM2.5 concentration value before test  | PM2.5 concentration value after 30s |Filtering effect|Pic|
 | :------------ |:---------------:| -----:|-----:|-----:|
-| 3M mask (with breathing valve)    | 154 | 10.8 |93%|![](.README_images/c72a0eb7.png)|
-| 3M mask (without breathing valve)      | 154  | 5.4 |96.5%| ![](.README_images/7d945a3a.png)|
-| Cotton mask with strainer | 150 |   76.3 |49.1%|![](.README_images/3d5178b2.png)|
-| Thin disposable mask | 149 |   133 |10.70%| ![](.README_images/30f66850.png)|
-| Disposable medical care mask | 152 |   80.4 |47.1%|![](.README_images/9074c502.png)|
-| Cotton masks | 156 |   129 |17.3%|![](.README_images/60ac4532.png)|
+| 3M mask (with breathing valve)    | 154 | 10.8 |93%|![](.README_images/6b5a5033.png)|
+| 3M mask (without breathing valve)      | 154  | 5.4 |96.5%| ![](.README_images/be0b8f6e.png)|
+| Cotton mask with strainer | 150 |   76.3 |49.1%|![](.README_images/f1c87c07.png)|
+| Thin disposable mask | 149 |   133 |10.70%| ![](.README_images/aa3b6a0f.png)|
+| Disposable medical care mask | 152 |   80.4 |47.1%|![](.README_images/0c9cc116.png)|
+| Cotton masks | 156 |   129 |17.3%|![](.README_images/d20747a3.png)|
 
 N95 mask is recommended
 
