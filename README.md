@@ -203,9 +203,6 @@ Now most express delivery does not ship, we must ask when to ship before you buy
 Finally, the article and the author have nothing to do with all the material suppliers. The pictures in the article are only for illustration. If there are businesses or friends with supply channels, you are welcome to contact me by private mail. If it is verified to be effective, I will publish it for your convenience.
 Thank you very much for taking the time to read. I hope it will help you. Finally, I wish the epidemic to end as soon as possible. All the people who are struggling in the front line, such as doctors, police and workers, will come back safely. Everyone from all over the world will be safe. Come on, Wuhan! Go China!
 
-**reference**
-https://zhuanlan.zhihu.com/p/103819650
-
 1. Introduction to antibacterial principle of medical mask
 The masks that can play the role of virus protection are mainly medical surgical masks and N95 masks. According to the national YY 0469-2004 technical requirements for medical surgical masks, the important technical indicators that medical surgical masks must achieve include filtration efficiency, bacterial filtration efficiency (BFE) and respiratory resistance:
 Filtration efficiency: under the condition of air flow (30 ± 2) l / min, the filtration efficiency of sodium chloride aerosol with aerodynamic median diameter of (0.24 ± 0.06) μ m shall not be less than 30%; Bacterial Filtration Efficiency: under the specified condition, the filtration efficiency of Staphylococcus aureus aerosol with average particle diameter of (3 ± 0.3) μ m shall not be less than 95%; respiratory resistance: under the condition of filtration efficiency flow, The inspiratory resistance shall not exceed 49pa, and the expiratory resistance shall not exceed 29.4pa.
@@ -231,3 +228,6 @@ The most important N95 melt blown non-woven fabric has a purchase channel on tao
 6. Use strong glue or needle thread to glue or sew the three-layer materials of the mask together along the edge, and fix the ear belt on both sides of the mask.
 ![](.README_images/3f4a0edf.png)
 The specific production needs to give full play to your manual skills. I hope this article can help you a little. Ample food and clothing by working with our own hands. At the same time, the author always believes that the most important thing in a crisis period is to keep calm and not panic. Do a good job in peacetime protection, pay attention to personal hygiene, improve their own resistance. We have a strong social organization ability, as well as serious, professional and not afraid of sacrifice of medical staff, will be able to control the infection.
+
+**reference**
+https://zhuanlan.zhihu.com/p/103819650
