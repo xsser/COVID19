@@ -143,7 +143,7 @@ A: I don't think so at present, because there are antibodies. How to recover dep
 16. Are common cold drugs or antibiotics effective for the virus?
 Answer: no effect.
 
-**reference: **
+**reference:** 
 http://www.dgcio.com/nd.jsp?id=410
 
 
