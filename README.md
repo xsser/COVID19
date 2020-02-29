@@ -74,14 +74,14 @@ https://c.m.163.com/news/a/F6GCI5P30550A3RU.html?spss=newsapp
 In China, we have a lot of online shopping apps. During this period, they launched a door-to-door delivery service. We placed an order through the app, and then went to the gate of the community to get it, because the Chinese government does not allow us to leave the community, and no one else can enter the community.
 ## How do you work in China?
 As long as it's not an important industry, such as mask industry and transportation industry, we all work online, communicate through social software, or email
-##What is the purpose of 14 days of medical observation?
+## What is the purpose of 14 days of medical observation?
 It is necessary to take strict medical observation and other preventive public health measures for close contacts, which is a responsible attitude to public health and safety, and also a common practice of the international community.
 Referring to the other novel coronavirus cases, the coronavirus case information and the current prevention and control practice, the medical observation period of the close contacts was set to 14 days, and the close contacts were observed at home.
-##How long can the new coronavirus survive without human body?
+## How long can the new coronavirus survive without human body?
 Virus is different from bacteria. It is a kind of microorganism without metabolism and replication function. Therefore, all viruses are easy to deform or inactivate after leaving the host.
 According to the analysis of relevant data, the survival time of the new coronavirus in the dry and ventilated environment is less than 2 hours. However, the similarity between the new coronavirus and SARS is great. According to the survival time of the surface of SARS related in vitro articles, even if the community disinfection is in place, the virus may also survive in the handle, elevator, stairs and other places.
 (in the confirmed case of Inner Mongolia, Bai, 40 years old, from Dalate County, Ordos City, lives on the upper floor of the confirmed case, song. He has no history of going out of the city, has no contact with fever patients, has not been to the farmer's market, and has no contact with wild animals. It was diagnosed on February 1. It can be seen from this case that the mode of transmission of the virus may not be limited to oral foam transmission, and the risk of contact transmission increases.)
-##How to prevent novel coronavirus pneumonia
+## How to prevent novel coronavirus pneumonia
 A. Cherish life and keep away from game;
 B. If not necessary, do not go out, do not visit, home "self isolation"; do not go to many places, do not gather;
 C. Keep hands clean. Wash your hands with alcohol containing hand sanitizer at home. Hand washing can defeat most viruses and bacteria;
@@ -89,20 +89,9 @@ D. When coughing or sneezing, cover the nose and mouth with disposable tissue or
 E. Cook meat, eggs and other foods thoroughly, disinfect the dishes and chopsticks with high temperature boiling water;
 F. Avoid close contact with patients with respiratory tract infection;
 G. Wear a mask, lucky star.
-
 **reference:**
 https://www.sohu.com/a/370439329_820625
-## The difference of several kinds of masks
-| Mask type  | PM2.5 concentration value before test  | PM2.5 concentration value after 30s |Filtering effect|Pic|
-| :------------ |:---------------:| -----:|-----:|-----:|
-| 3M mask (with breathing valve)    | 154 | 10.8 |93%|![](.README_images/c72a0eb7.png)|
-| 3M mask (without breathing valve)      | 154  | 5.4 |96.5%| ![](.README_images/7d945a3a.png)|
-| Cotton mask with strainer | 150 |   76.3 |49.1%|![](.README_images/3d5178b2.png)|
-| Thin disposable mask | 149 |   133 |10.70%| ![](.README_images/30f66850.png)|
-| Disposable medical care mask | 152 |   80.4 |47.1%|![](.README_images/9074c502.png)|
-| Cotton masks | 156 |   129 |17.3%|![](.README_images/60ac4532.png)|
 
-N95 mask is recommended
 
 ## New coronavirus 16 Q 16 A
 
@@ -142,11 +131,11 @@ Answer: self-healing is related to physical fitness, mostly for people with soun
 A: I don't think so at present, because there are antibodies. How to recover depends on the patient's recovery.
 16. Are common cold drugs or antibiotics effective for the virus?
 Answer: no effect.
-**reference:**
+**reference: **
 http://www.dgcio.com/nd.jsp?id=410
 
 
-##Zhong Nanshan's latest answer to the new coronavirus!
+## Zhong Nanshan's latest answer to the new coronavirus!
 
 A novel coronavirus was recently released in February 18th in Guangdong province to announce the latest progress in the treatment of new coronavirus. Zhong Nanshan, director of national respiratory disease clinical medicine research center and academician of Chinese Academy of engineering, attended the meeting. Zhong Nanshan said that at present, chloroquine phosphate recommended by experts is not a specific drug, but it has some help and is very worthy of discussion.
 Academician Zhong Nanshan thought that the "plasma treatment" method which had been talked about before was relatively old, but it was more effective, more worthy of affirmation and safer. But at the same time, it should be noted that the source of plasma therapy is still limited.
