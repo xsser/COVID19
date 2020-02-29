@@ -142,11 +142,12 @@ Answer: self-healing is related to physical fitness, mostly for people with soun
 A: I don't think so at present, because there are antibodies. How to recover depends on the patient's recovery.
 16. Are common cold drugs or antibiotics effective for the virus?
 Answer: no effect.
-**reference:**
+
+**reference: **
 http://www.dgcio.com/nd.jsp?id=410
 
 
-##Zhong Nanshan's latest answer to the new coronavirus!
+## Zhong Nanshan's latest answer to the new coronavirus!
 
 A novel coronavirus was recently released in February 18th in Guangdong province to announce the latest progress in the treatment of new coronavirus. Zhong Nanshan, director of national respiratory disease clinical medicine research center and academician of Chinese Academy of engineering, attended the meeting. Zhong Nanshan said that at present, chloroquine phosphate recommended by experts is not a specific drug, but it has some help and is very worthy of discussion.
 Academician Zhong Nanshan thought that the "plasma treatment" method which had been talked about before was relatively old, but it was more effective, more worthy of affirmation and safer. But at the same time, it should be noted that the source of plasma therapy is still limited.
