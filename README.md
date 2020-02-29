@@ -91,7 +91,11 @@ F. Avoid close contact with patients with respiratory tract infection;
 G. Wear a mask, lucky star.
 **reference:**
 https://www.sohu.com/a/370439329_820625
+
+
 ##New coronavirus 16 Q 16 A
+
+
 Important tips for epidemic prevention
 One is the button, door handle, manual faucet and public telephone of the elevator. These places are the places where people contact frequently and frequently. They are the places where we need to disinfect.
 Novel coronavirus is mainly respiratory tract, and two is air disinfection. If disinfectant is used to disinfect the air, it must be in an unmanned environment. Because if a person inhales disinfectant, or repeatedly sprays disinfectant on a person, there is a potential risk, and this risk cannot be quantitatively assessed, so it should be avoided as much as possible.
@@ -129,7 +133,10 @@ A: I don't think so at present, because there are antibodies. How to recover dep
 Answer: no effect.
 **reference:**
 http://www.dgcio.com/nd.jsp?id=410
+
+
 ##Zhong Nanshan's latest answer to the new coronavirus!
+
 A novel coronavirus was recently released in February 18th in Guangdong province to announce the latest progress in the treatment of new coronavirus. Zhong Nanshan, director of national respiratory disease clinical medicine research center and academician of Chinese Academy of engineering, attended the meeting. Zhong Nanshan said that at present, chloroquine phosphate recommended by experts is not a specific drug, but it has some help and is very worthy of discussion.
 Academician Zhong Nanshan thought that the "plasma treatment" method which had been talked about before was relatively old, but it was more effective, more worthy of affirmation and safer. But at the same time, it should be noted that the source of plasma therapy is still limited.
 For the mortality of 2019 ncov, Zhong Nanshan thinks that the mortality of 2019 ncov in the new coronavirus (SARS, mers and 2019 ncov) is relatively low.
